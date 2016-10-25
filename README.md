@@ -1,3 +1,5 @@
+![alt tag](https://raw.githubusercontent.com/dogancoruh/Contest-Android-Developer-Days-OMIO-Health-Device/master/README.jpg)
+
 # Android Developer Days OMIO Health Device 
 
 Arduino and Objective-c source code from our Android Developer Days 2015 attempt.
